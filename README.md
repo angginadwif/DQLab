@@ -38,7 +38,7 @@
 ### Starting Class:
 - [Introduction to Data Science with Python]
 
-- [Python Fundamental for Data Science]
+- [[Python Fundamental for Data Science](https://github.com/angginadwif/DQLab/upload/main/Learn/R/Starting%20Clas)]
 
 ### Fundamental Class:
 - [Data Wrangling Python]
