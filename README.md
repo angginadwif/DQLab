@@ -36,7 +36,7 @@
 ## Python
 
 ### Starting Class:
-- [Introduction to Data Science with Python]
+- [[Introduction to Data Science with Python](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Starting%20Class/Introduction_to_Data_Science_with_Python.ipynb)]
 
 - [[Python Fundamental for Data Science](https://github.com/angginadwif/DQLab/upload/main/Learn/R/Starting%20Clas)]
 
