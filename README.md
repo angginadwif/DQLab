@@ -15,7 +15,7 @@
 ## R:
 
 ### Starting Class:
-- (https://github.com/angginadwif/DQLab/blob/main/Learn/R/Starting%20Class/Introduction%20to%20Data%20Science%20with%20R) Introduction to Data Science with R
+- [[Introduction to Data Science with R](https://github.com/angginadwif/DQLab/blob/main/Learn/R/Starting%20Class/Introduction%20to%20Data%20Science%20with%20R)]  
 
 - [R Fundamental for Data Science]
 
@@ -43,7 +43,7 @@
 ### Fundamental Class:
 - [Data Wrangling Python]
 
-- [Python for Data Professional Beginner - Part 1]
+- [Python for Data Professional Beginner - Part 1
 
 - [Python for Data Professional Beginner - Part 2]
 
