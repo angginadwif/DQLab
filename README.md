@@ -15,7 +15,7 @@
 ## R:
 
 ### Starting Class:
-- [[Introduction to Data Science with R](https://github.com/angginadwif/DQLab/blob/main/Learn/R/Starting%20Class/Introduction%20to%20Data%20Science%20with%20R)]  
+- [[Introduction to Data Science with R](https://github.com/angginadwif/DQLab/blob/main/Learn/R/Starting%20Clas/Introduction_to_Data_Science_with_Python.ipynb)]  
 
 - [R Fundamental for Data Science]
 
