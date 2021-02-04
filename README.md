@@ -24,7 +24,7 @@
 
 - [[Statistics using R for Data Science](https://github.com/angginadwif/DQLab/blob/main/Learn/R/Fundamental%20Class/Statistics%20using%20R%20for%20Data%20Science.Rmd)]
 
-- [[Fundamental Data Visualization using R](Fhttps://github.com/angginadwif/DQLab/blob/main/Learn/R/Fundamental%20Class/Fundamental%20Data%20Visualization%20using%20R.R)]
+- [[Fundamental Data Visualization using R](https://github.com/angginadwif/DQLab/blob/main/Learn/R/Fundamental%20Class/Fundamental%20Data%20Visualization%20using%20R.R)]
 
 - [Advanced Data Visualization with ggplot2 using R]
 
