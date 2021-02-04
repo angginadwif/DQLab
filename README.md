@@ -62,7 +62,7 @@
 ## SQL
 
 ### Starting Class
-- [Fundamental SQL with SELECT Statement]
+- [[Fundamental SQL with SELECT Statement](https://github.com/angginadwif/DQLab/blob/main/Learn/SQL/Starting%20Class/Fundamental%20SQL%20with%20SELECT%20Statement.sql)]
 
 ### Fundamental Class:
 - [Fundamental SQL Using SELECT Statement]
