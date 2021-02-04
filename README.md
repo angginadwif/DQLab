@@ -39,7 +39,7 @@
 - [[Python Fundamental for Data Science](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Starting%20Class/Python_Fundamental_for_Data_Science.ipynb)]
 
 ### Fundamental Class:
-- [Data Wrangling Python]
+- [[Data Wrangling Python](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Data_Wrangling_Python.ipynb)]
 
 - [Python for Data Professional Beginner - Part 1
 
