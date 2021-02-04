@@ -1,4 +1,4 @@
-# [Visualisasi - Part 1: ggplot](https://academy.dqlab.id/main/livecode/257/468/2329)
+# [Visualisasi - Part 1: ggplot]
 
 library(dplyr)
 library(ggplot2)
@@ -55,7 +55,7 @@ options(repr.plt.width = 10,
 plt
 
 
-# [Visualisasi - Part 2: ggplot](https://academy.dqlab.id/main/livecode/257/468/2332)
+# [Visualisasi - Part 2: ggplot]
 
 library(dplyr)
 library(ggplot2)
