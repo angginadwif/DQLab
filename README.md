@@ -20,13 +20,11 @@
 - [[R Fundamental for Data Science](https://github.com/angginadwif/DQLab/blob/main/Learn/R/Starting%20Clas/R%20Fundamental%20for%20Data%20Science%20.Rmd)] [[MEDIUM](https://angginadwi.medium.com/r-fundamental-for-data-science-e3f715d09ef6)]
 
 ### Fundamental Class:
-- [Data Preparation in Data Science using R]
+- [[Data Preparation in Data Science using R](https://github.com/angginadwif/DQLab/blob/main/Learn/R/Fundamental%20Class/Data%20Preparation%20in%20Data%20Science%20using%20R.Rmd)]
 
-- [Statistics using R for Data Science]
+- [[Statistics using R for Data Science](https://github.com/angginadwif/DQLab/blob/main/Learn/R/Fundamental%20Class/Statistics%20using%20R%20for%20Data%20Science.Rmd)]
 
-- [Statistics using R for Data Science]
-
-- [Fundamental Data Visualization using R]
+- [[Fundamental Data Visualization using R](Fhttps://github.com/angginadwif/DQLab/blob/main/Learn/R/Fundamental%20Class/Fundamental%20Data%20Visualization%20using%20R.R)]
 
 - [Advanced Data Visualization with ggplot2 using R]
 
