@@ -57,6 +57,10 @@
 
 - [Machine Learning With Python for Beginner]
 
+- [[Statistic using Python for Data Science](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Statistic_using_Python_for_Data_Science.ipynb)]
+
+- [[Statistic using Python for Data Science - Part 2](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Statistic_using_Python_for_Data_Science_part2.ipynb)]
+
 ## SQL
 
 ### Starting Class
