@@ -41,9 +41,9 @@
 ### Fundamental Class:
 - [[Data Wrangling Python](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Data_Wrangling_Python.ipynb)]
 
-- [Python for Data Professional Beginner - Part 1
+- [[Python for Data Professional Beginner - Part 1](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Python_for_Data_Professional_Beginner_Part_1.ipynb)]
 
-- [Python for Data Professional Beginner - Part 2]
+- [[Python for Data Professional Beginner - Part 2](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Python_for_Data_Professional_Beginner_Part_2.ipynb)]
 
 - [Python for Data Professional Beginner - Part 3]
 
@@ -63,13 +63,13 @@
 - [[Fundamental SQL with SELECT Statement](https://github.com/angginadwif/DQLab/blob/main/Learn/SQL/Starting%20Class/Fundamental%20SQL%20with%20SELECT%20Statement.sql)]
 
 ### Fundamental Class:
-- [Fundamental SQL Using SELECT Statement]
+- [[Fundamental SQL Using SELECT Statement](https://github.com/angginadwif/DQLab/blob/main/Learn/SQL/Fundamental%20Class/Fundamental%20SQL%20Using%20SELECT%20Statement.sql)]
 
-- [Fundamental SQL Using FUNCTION and GROUP BY]
+- [[Fundamental SQL Using FUNCTION and GROUP BY](https://github.com/angginadwif/DQLab/blob/main/Learn/SQL/Fundamental%20Class/Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY.sql)]
 
-- [Fundamental SQL Using INNER JOIN and UNION]
+- [[Fundamental SQL Using INNER JOIN and UNION](https://github.com/angginadwif/DQLab/blob/main/Learn/SQL/Fundamental%20Class/Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION.sql)]
 
-- [Fundamental SQL Group By and Having]
+- [[Fundamental SQL Group By and Having](https://github.com/angginadwif/DQLab/blob/main/Learn/SQL/Fundamental%20Class/Fundamental%20SQL%20Group%20By%20and%20Having.sql)]
 
 
 
