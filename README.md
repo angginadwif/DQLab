@@ -76,4 +76,16 @@
 - [[Fundamental SQL Group By and Having](https://github.com/angginadwif/DQLab/blob/main/Learn/SQL/Fundamental%20Class/Fundamental%20SQL%20Group%20By%20and%20Having.sql)]
 
 
+## Projects
+Challenges that you can do right away from industry data experts using DQLab Academy's Live Code Editor using a choice of programming languages R, Python, and SQL.
 
+### R
+- [Project Data Analysis for Finance: Performa Cabang](https://angginadwi.medium.com/project-data-analysis-for-finance-performa-cabang-e98de359039b)]
+- [Project Data Analysis for Finance: Proses Investasi Investor](https://angginadwi.medium.com/project-data-analysis-for-finance-proses-investasi-investor-5815e6585824)]
+- [Project Machine Learning for Retail with R: Product Packaging]
+
+### SQL
+- [Data Engineer Challenge with SQL](https://angginadwi.medium.com/project-data-engineer-challenge-with-sql-8c368e9e7b4e)]
+- [Project Data Analysis for Retail: Sales Performance Report](https://angginadwi.medium.com/project-data-analysis-for-retail-sales-performance-report-b092d9821885)]
+- [Project Data Analysis for B2B Retail: Customer Analytics Report](https://angginadwi.medium.com/project-data-analysis-for-b2b-retail-customer-analytics-report-1d21208ab9b6)]
+- [Data Analysis for E-Commerce Challenge](https://angginadwi.medium.com/data-analysis-for-e-commerce-challenge-3f05c1094adf)]
