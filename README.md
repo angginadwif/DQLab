@@ -51,7 +51,7 @@
 
 - [[Exploratory Data Analysis with Python for Beginner](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Exploratory_Data_Analysis_with_Python_for_Beginner_.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1SCBCMJ/)]
 
-- [Data Visualization with Python Matplotlib for Beginner - Part 2] [Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KMQWIS/)]
+- [[Data Visualization with Python Matplotlib for Beginner - Part 2](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Data_Visualization_with_Python_Matplotlib_for_Beginner_Part_2.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KMQWIS/)]
 
 - [Data Quality with Python for Beginner] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2GDLPSR/)]
 
