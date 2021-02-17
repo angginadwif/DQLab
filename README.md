@@ -61,6 +61,11 @@
 
 - [[Statistic using Python for Data Science - Part 2](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Statistic_using_Python_for_Data_Science_part2.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20VARTMO/)]
 
+### Application Class in Industry:
+- [[Data Science in Marketing : Customer Segmentation with Python](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data_Science_in_Marketing_Customer_Segmentation_with_Python_.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1DTQVRO)]
+- [[Data Science in Marketing : Customer Segmentation with Python part 2](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data_Science_in_Marketing_Customer_Segmentation_with_Python_part_2.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1CRQTOF)]
+- [[Data Science Project: Analisis Data COVID19 di Dunia & ASEAN](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data_Science_Project_Analisis_Data_COVID19_di_Dunia_%26_ASEAN.ipynb) [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1HFBIBH)]
+
 ## SQL
 
 ### Starting Class
