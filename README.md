@@ -45,11 +45,11 @@
 
 - [[Python for Data Professional Beginner - Part 2](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Python_for_Data_Professional_Beginner_Part_2.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1QLILRI/)]
 
-- [Python for Data Professional Beginner - Part 3] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1ULTSIE/)]
+- [[Python for Data Professional Beginner - Part 3](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Python_for_Data_Professional_Beginner_Part_3.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1ULTSIE/)]
 
-- [Data Visualization with Python Matplotlib for Beginner - Part 1] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1AUBGHW/)]
+- [[Data Visualization with Python Matplotlib for Beginner - Part 1](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Data_Visualization_with_Python_Matplotlib_for_Beginner_Part_1_.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1AUBGHW/)]
 
-- [Exploratory Data Analysis with Python for Beginner] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1SCBCMJ/)]
+- [[Exploratory Data Analysis with Python for Beginner](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Exploratory_Data_Analysis_with_Python_for_Beginner_.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1SCBCMJ/)]
 
 - [Data Visualization with Python Matplotlib for Beginner - Part 2] [Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KMQWIS/)]
 
