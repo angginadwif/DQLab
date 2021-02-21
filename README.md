@@ -57,6 +57,8 @@
 
 - [Machine Learning With Python for Beginner] [[Certificate]()
 
+- [[Data Manipulation with Pandas - Part 1](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Data_Manipulation_with_Pandas_Part_1.ipynb)][[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TRDWCU)]
+
 - [[Statistic using Python for Data Science](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Statistic_using_Python_for_Data_Science.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20VVAALE/)]
 
 - [[Statistic using Python for Data Science - Part 2](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Statistic_using_Python_for_Data_Science_part2.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20VARTMO/)]
