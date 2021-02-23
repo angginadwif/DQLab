@@ -63,7 +63,7 @@
 
 - [[Statistic using Python for Data Science - Part 2](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Statistic_using_Python_for_Data_Science_part2.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20VARTMO/)]
 
-- [[Data Visualization using Plotnine ](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Data_Visualization_using_Plotnine_.ipynb)][Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDVPP9WHBCGB)]
+- [[Data Visualization using Plotnine ](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Data_Visualization_using_Plotnine_.ipynb)][[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDVPP9WHBCGB)]
 
 ### Application Class in Industry:
 - [[Data Science in Marketing : Customer Segmentation with Python](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data_Science_in_Marketing_Customer_Segmentation_with_Python_.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1DTQVRO)]
@@ -91,7 +91,7 @@ Challenges that you can do right away from industry data experts using DQLab Aca
 ### R
 - [[Project Data Analysis for Finance: Performa Cabang](https://angginadwi.medium.com/project-data-analysis-for-finance-performa-cabang-e98de359039b)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABPRJ8%20CDSWLK/)]
 - [[Project Data Analysis for Finance: Proses Investasi Investor](https://angginadwi.medium.com/project-data-analysis-for-finance-proses-investasi-investor-5815e6585824)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABPRJC9CGHQHH/)]
-- [Project Machine Learning for Retail with R: Product Packaging] [[Certificate]()
+- [Project Machine Learning for Retail with R: Product Packaging] [[Certificate]()]
 
 ### SQL
 - [[Data Engineer Challenge with SQL](https://angginadwi.medium.com/project-data-engineer-challenge-with-sql-8c368e9e7b4e)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABSQLTSASPKKK/)]
