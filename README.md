@@ -55,13 +55,15 @@
 
 - [Data Quality with Python for Beginner] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2GDLPSR/)]
 
-- [Machine Learning With Python for Beginner] [[Certificate]()
+- [[Machine Learning With Python for Beginner]() [[Certificate]()]
 
-- [[Data Manipulation with Pandas - Part 1](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Data_Manipulation_with_Pandas_Part_1.ipynb)][[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TRDWCU)]
+- [[Data Manipulation with Pandas - Part 1](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Data_Manipulation_with_Pandas_Part_1.ipynb)] [Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TRDWCU)]
 
 - [[Statistic using Python for Data Science](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Statistic_using_Python_for_Data_Science.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20VVAALE/)]
 
 - [[Statistic using Python for Data Science - Part 2](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Statistic_using_Python_for_Data_Science_part2.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20VARTMO/)]
+
+- [[Data Visualization using Plotnine ](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Data_Visualization_using_Plotnine_.ipynb)][Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDVPP9WHBCGB)]
 
 ### Application Class in Industry:
 - [[Data Science in Marketing : Customer Segmentation with Python](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data_Science_in_Marketing_Customer_Segmentation_with_Python_.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1DTQVRO)]
