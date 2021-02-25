@@ -55,7 +55,7 @@
 
 - [Data Quality with Python for Beginner] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2GDLPSR/)]
 
-- [[Machine Learning With Python for Beginner]() [[Certificate]()]
+- [[Machine Learning With Python for Beginner](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Machine_Learning_With_Python_for_Beginner.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2USWALL)]
 
 - [[Data Manipulation with Pandas - Part 1](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Data_Manipulation_with_Pandas_Part_1.ipynb)] [Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TRDWCU)]
 
