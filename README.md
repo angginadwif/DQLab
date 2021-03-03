@@ -95,7 +95,7 @@ Challenges that you can do right away from industry data experts using DQLab Aca
 - [Project Machine Learning for Retail with R: Product Packaging] [[Certificate]()]
 
 ### Python
-- [[Data Engineer Challenge with Python](https://github.com/angginadwif/DQLab/blob/main/Projects/Python/Data_Engineer_Challenge_with_Python.ipynb) [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABPRJC3SLFWKJ)]
+- [[Data Engineer Challenge with Python](https://github.com/angginadwif/DQLab/blob/main/Projects/Python/Data_Engineer_Challenge_with_Python.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABPRJC3SLFWKJ)]
 
 ### SQL
 - [[Data Engineer Challenge with SQL](https://angginadwi.medium.com/project-data-engineer-challenge-with-sql-8c368e9e7b4e)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABSQLTSASPKKK/)]
