@@ -69,6 +69,7 @@
 - [[Data Science in Marketing : Customer Segmentation with Python](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data_Science_in_Marketing_Customer_Segmentation_with_Python_.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1DTQVRO)]
 - [[Data Science in Marketing : Customer Segmentation with Python part 2](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data_Science_in_Marketing_Customer_Segmentation_with_Python_part_2.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1CRQTOF)]
 - [[Data Science Project: Analisis Data COVID19 di Dunia & ASEAN](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data_Science_Project_Analisis_Data_COVID19_di_Dunia_%26_ASEAN.ipynb) [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1HFBIBH)]
+- [[Data Science in Telco: Data Cleansing](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data%20Science%20In%20Telco/Data_Science_in_Telco_Data_Cleansing.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABAPL1%20AVGEAM)]
 
 ## SQL
 
@@ -92,6 +93,9 @@ Challenges that you can do right away from industry data experts using DQLab Aca
 - [[Project Data Analysis for Finance: Performa Cabang](https://angginadwi.medium.com/project-data-analysis-for-finance-performa-cabang-e98de359039b)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABPRJ8%20CDSWLK/)]
 - [[Project Data Analysis for Finance: Proses Investasi Investor](https://angginadwi.medium.com/project-data-analysis-for-finance-proses-investasi-investor-5815e6585824)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABPRJC9CGHQHH/)]
 - [Project Machine Learning for Retail with R: Product Packaging] [[Certificate]()]
+
+### Python
+- [[Data Engineer Challenge with Python](https://github.com/angginadwif/DQLab/blob/main/Projects/Python/Data_Engineer_Challenge_with_Python.ipynb) [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABPRJC3SLFWKJ)]
 
 ### SQL
 - [[Data Engineer Challenge with SQL](https://angginadwi.medium.com/project-data-engineer-challenge-with-sql-8c368e9e7b4e)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABSQLTSASPKKK/)]
