@@ -30,6 +30,7 @@
 
 ### Application Class in Industry:
 - [[Analisis Data COVID19 di Indonesia](https://github.com/angginadwif/DQLab/blob/main/Learn/R/Application%20Class%20in%20Industry/Analisis%20Data%20COVID19%20di%20Indonesia.R)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20JUWUOF/)]
+- [[Data Science in Marketing: Customer Segmentation]() [[Certificate]()]
 
 ## Python
 
