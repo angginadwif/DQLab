@@ -66,6 +66,8 @@
 
 - [[Data Visualization using Plotnine ](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Data_Visualization_using_Plotnine_.ipynb)][[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDVPP9WHBCGB)]
 
+- [[Fundamental Data Visualization with Python](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Fundamental_Data_Visualization_with_Python.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1SVPGIN)] [[Medium](https://angginadwi.medium.com/fundamental-data-visualization-with-python-d817e43f9ded)]
+
 ### Application Class in Industry:
 - [[Data Science in Marketing : Customer Segmentation with Python](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data_Science_in_Marketing_Customer_Segmentation_with_Python_.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1DTQVRO)]
 - [[Data Science in Marketing : Customer Segmentation with Python part 2](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data_Science_in_Marketing_Customer_Segmentation_with_Python_part_2.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1CRQTOF)]
