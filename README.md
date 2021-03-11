@@ -44,7 +44,7 @@
 
 - [[Python for Data Professional Beginner - Part 1](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Python_for_Data_Professional_Beginner_Part_1.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1QLILRI/)]
 
-- [[Python for Data Professional Beginner - Part 2](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Python_for_Data_Professional_Beginner_Part_2.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1QLILRI/)]
+- [[Python for Data Professional Beginner - Part 2](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Python_for_Data_Professional_Beginner_Part_2.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1FMBJPU)]
 
 - [[Python for Data Professional Beginner - Part 3](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Python_for_Data_Professional_Beginner_Part_3.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1ULTSIE/)]
 
