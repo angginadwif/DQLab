@@ -68,6 +68,8 @@
 
 - [[Fundamental Data Visualization with Python](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Fundamental_Data_Visualization_with_Python.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1SVPGIN)] [[Medium](https://angginadwi.medium.com/fundamental-data-visualization-with-python-d817e43f9ded)]
 
+- [[Data Manipulation with Pandas - Part 2 ](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Fundamental%20Class/Data%20Manipulation%20with%20Pandas%20-%20Part%202/_Data%20Manipulation%20with%20Pandas%20-%20Part%202.py)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1LUAQGG)]
+
 ### Application Class in Industry:
 - [[Data Science in Marketing : Customer Segmentation with Python](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data_Science_in_Marketing_Customer_Segmentation_with_Python_.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1DTQVRO)]
 - [[Data Science in Marketing : Customer Segmentation with Python part 2](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data_Science_in_Marketing_Customer_Segmentation_with_Python_part_2.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1CRQTOF)]
