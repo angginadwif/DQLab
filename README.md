@@ -26,7 +26,7 @@
 
 - [[Fundamental Data Visualization using R](https://github.com/angginadwif/DQLab/blob/main/Learn/R/Fundamental%20Class/Fundamental%20Data%20Visualization%20using%20R.R)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTR1PBJEKH/)]
 
-- [Advanced Data Visualization with ggplot2 using R](https://github.com/angginadwif/DQLab/blob/main/Learn/R/Fundamental%20Class/Advanced%20Data%20Visualization%20with%20ggplot2%20using%20R.R)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABAPL4%20NBLHGV/)]
+- [[Advanced Data Visualization with ggplot2 using R](https://github.com/angginadwif/DQLab/blob/main/Learn/R/Fundamental%20Class/Advanced%20Data%20Visualization%20with%20ggplot2%20using%20R.R)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABAPL4%20NBLHGV/)]
 
 ### Application Class in Industry:
 - [[Analisis Data COVID19 di Indonesia](https://github.com/angginadwif/DQLab/blob/main/Learn/R/Application%20Class%20in%20Industry/Analisis%20Data%20COVID19%20di%20Indonesia.R)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20JUWUOF/)]
