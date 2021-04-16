@@ -102,6 +102,8 @@ Challenges that you can do right away from industry data experts using DQLab Aca
 ### Python
 - [[Data Engineer Challenge with Python](https://github.com/angginadwif/DQLab/blob/main/Projects/Python/Data_Engineer_Challenge_with_Python.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABPRJC3SLFWKJ)]
 
+-[[Project Machine Learning with Python: Building Recommender System](https://github.com/angginadwif/DQLab/blob/main/Projects/Python/Project%20Machine%20Learning%20with%20Python:%20Building%20Recommender%20System/Project_Machine_Learning_with_Python_Building_Recommender_System.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABPRJC5LJIKRQ)]
+
 ### SQL
 - [[Data Engineer Challenge with SQL](https://angginadwi.medium.com/project-data-engineer-challenge-with-sql-8c368e9e7b4e)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABSQLTSASPKKK/)]
 - [[Project Data Analysis for Retail: Sales Performance Report](https://angginadwi.medium.com/project-data-analysis-for-retail-sales-performance-report-b092d9821885)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABPRJC4UJHGDD)]
