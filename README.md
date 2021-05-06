@@ -75,7 +75,7 @@
 - [[Data Science in Marketing : Customer Segmentation with Python part 2](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data_Science_in_Marketing_Customer_Segmentation_with_Python_part_2.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1CRQTOF)]
 - [[Data Science Project: Analisis Data COVID19 di Dunia & ASEAN](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data_Science_Project_Analisis_Data_COVID19_di_Dunia_%26_ASEAN.ipynb) [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABINTP1HFBIBH)]
 - [[Data Science in Telco: Data Cleansing](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Data%20Science%20In%20Telco/Data_Science_in_Telco_Data_Cleansing.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABAPL1%20AVGEAM)]
-- [[Customer Churn Prediction using Machine Learning](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Customer%20Churn%20Prediction%20using%20Machine%20Learning/Customer_Churn_Prediction_using_Machine_Learning.ipynb)] [[Certificate]()]
+- [[Customer Churn Prediction using Machine Learning](https://github.com/angginadwif/DQLab/blob/main/Learn/Python/Application%20Class%20in%20Industry/Customer%20Churn%20Prediction%20using%20Machine%20Learning/Customer_Churn_Prediction_using_Machine_Learning.ipynb)] [[Certificate](https://academy.dqlab.id/certificate/pdf/DQLABAPL2%20REFMIJ)]
 
 ## SQL
 
